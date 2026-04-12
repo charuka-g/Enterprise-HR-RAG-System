@@ -1,0 +1,139 @@
+MERIDIAN HOLDINGS PLC
+MEDICAL AND SICK LEAVE POLICY
+Policy Code: HR-LK-002
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Head of Human Resources
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+This policy outlines the entitlement to medical leave, the process for applying, and the documentation requirements for all permanent employees of Meridian Holdings PLC in Sri Lanka. The Company recognizes that illness is unavoidable and aims to provide adequate support while managing operational needs.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all permanent full-time and part-time employees who have completed their probationary period. Employees on probation may take up to 3 days of casual sick leave per month with no pay entitlement unless approved otherwise.
+
+==========================================================================
+3. MEDICAL LEAVE ENTITLEMENT
+==========================================================================
+
+3.1 Certified Medical Leave (CML)
+
+Certified Medical Leave is leave supported by a medical certificate issued by a registered medical practitioner. Entitlement per leave year:
+
+  - Hospitalization (in-patient): Up to 90 calendar days per year
+  - Outpatient / clinic-certified illness: Up to 21 working days per year
+
+These entitlements are separate. An employee who uses all 21 outpatient days may still avail of up to 90 days for a genuine hospitalization event.
+
+3.2 Uncertified / Self-Certified Sick Leave
+
+Employees may take up to 3 days of self-certified sick leave per leave year without a medical certificate. These will be deducted from the 21-day certified entitlement once the certified leave balance is exhausted. Beyond 3 uncertified days in a year, a medical certificate is mandatory.
+
+3.3 Extended Illness
+
+Where an employee exhausts their medical leave entitlement and is still unfit for work, the following options apply in order:
+  1. Annual leave balance may be utilized (with employee consent)
+  2. Unpaid leave may be granted for up to 3 months with BU Head approval
+  3. Beyond 3 months unpaid, the Company may initiate a medical board review
+
+==========================================================================
+4. DOCUMENTATION REQUIREMENTS
+==========================================================================
+
+4.1 Medical Certificate Requirements
+
+A valid medical certificate must:
+  - Be issued by a registered medical practitioner (MBBS or equivalent)
+  - Specify the nature of illness (general diagnosis is sufficient; detailed diagnosis is not required)
+  - State the period of rest recommended
+  - Bear the doctor's registration number, signature, and clinic/hospital stamp
+
+Certificates from traditional medicine practitioners (Ayurveda, Unani) will be accepted for up to 3 days per leave year, provided the practitioner is registered with the relevant government authority.
+
+4.2 Submission Deadline
+
+Medical certificates must be submitted to the HR department or uploaded on the ESS portal:
+  - Within 2 working days of returning to work for absences of 1–3 days
+  - On the first day of absence or as soon as practicable for planned hospitalization
+
+4.3 Late Submission
+
+Failure to submit a medical certificate within the required timeframe will result in the absence being treated as unauthorized. An employee may appeal this decision to their HR Business Partner within 5 working days.
+
+==========================================================================
+5. NOTIFICATION PROCEDURE
+==========================================================================
+
+5.1 Informing Your Manager
+
+Employees must inform their direct line manager of an absence due to illness as early as possible on the first day of absence, preferably before the start of their scheduled work time. Notification by WhatsApp or phone call to the manager is acceptable for the initial notification, but must be followed by a formal ESS submission upon return.
+
+5.2 Prolonged Absence
+
+If an illness extends beyond 3 consecutive days, the employee must provide regular updates to their manager at least every 3 days, either directly or through a family member if the employee is incapacitated.
+
+==========================================================================
+6. MEDICAL LEAVE AND PAY
+==========================================================================
+
+6.1 Full Pay During Medical Leave
+
+Employees will receive full basic salary and fixed allowances during all certified medical leave days within their annual entitlement.
+
+6.2 Half Pay for Extended Leave
+
+Where unpaid leave is converted to half-pay leave by mutual agreement (for extended illness beyond entitlement), the employee receives 50% of basic salary.
+
+6.3 No Pay Leave for Illness
+
+Where all entitlements are exhausted, the employee is placed on no-pay medical leave and receives no remuneration for those days.
+
+==========================================================================
+7. PATTERN OF ABSENCE MONITORING
+==========================================================================
+
+HR Business Partners will monitor patterns of sick leave. The following patterns may trigger a welfare review meeting:
+
+  - More than 3 separate sick leave incidents in a rolling 3-month period
+  - Consistent absence on Mondays, Fridays, or days adjacent to public holidays
+  - Sickness absences totalling more than 10 days in any rolling 12-month period
+
+A welfare review is not a disciplinary process. It is a supportive meeting to understand if the employee needs assistance (medical, personal, or otherwise). However, where genuine abuse is established, disciplinary action may follow.
+
+==========================================================================
+8. CONFIDENTIALITY
+==========================================================================
+
+All medical information is confidential and will be stored securely by the HR department. Medical certificates will not be shared with colleagues or other managers. Only general information (e.g., "the employee is on medical leave") will be communicated to the team.
+
+==========================================================================
+9. SPECIAL PROVISIONS
+==========================================================================
+
+9.1 Work-Related Illness or Injury
+
+Employees who are absent due to a workplace injury or occupational illness are covered under the Employees' Provident Fund and Workmen's Compensation provisions. Such absences will not be counted against the employee's medical leave entitlement. HR and the Safety Officer must be notified immediately.
+
+9.2 Chronic Conditions
+
+Employees with a diagnosed chronic condition (e.g., diabetes, asthma, hypertension) who require regular medical appointments may apply for a standing medical leave arrangement with their HR Business Partner, reviewed semi-annually.
+
+9.3 Mental Health
+
+Meridian Holdings recognizes mental health as equally important as physical health. Employees experiencing stress, burnout, depression, anxiety, or other mental health conditions are encouraged to speak with their HR Business Partner or use the Company's Employee Assistance Programme (EAP). Mental health-related absences are managed with the same confidentiality and entitlements as physical illness.
+
+==========================================================================
+10. RELATED POLICIES
+==========================================================================
+
+- HR-LK-001: Annual Leave Policy
+- HR-LK-003: Maternity and Paternity Leave Policy
+- HR-LK-006: Grievance Handling Policy
+- HR-GLOBAL-004: Employee Assistance Programme
+
+For queries, contact hr@meridianholdings.lk.

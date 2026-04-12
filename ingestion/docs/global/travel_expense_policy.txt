@@ -1,0 +1,166 @@
+MERIDIAN HOLDINGS PLC
+TRAVEL AND EXPENSE POLICY
+Policy Code: HR-GLOBAL-005
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Chief Financial Officer
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+This policy governs the reimbursement of business travel and entertainment expenses incurred by employees of Meridian Holdings PLC. It ensures that business expenditure is reasonable, properly authorized, accurately recorded, and in compliance with applicable tax and regulatory requirements.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all employees who incur travel or entertainment expenses on behalf of Meridian Holdings PLC. Contractor expenses are governed by their individual agreements.
+
+==========================================================================
+3. GENERAL PRINCIPLES
+==========================================================================
+
+  - Employees should spend Company money as carefully as they would their own.
+  - All expenses must be for a genuine business purpose.
+  - Expenses must be pre-approved before being incurred wherever possible.
+  - Receipts are mandatory for all individual expenses above LKR 1,000.
+  - Personal expenses are never reimbursable.
+
+==========================================================================
+4. AUTHORIZATION
+==========================================================================
+
+4.1 Pre-Approval for Travel
+
+All domestic and international travel must be pre-approved via the ESS portal:
+  - Domestic travel: Line manager approval
+  - International travel: BU Head and Finance approval (must be obtained at least 7 days in advance)
+
+4.2 Expense Claim Approval
+
+Expense claims must be submitted within 30 days of the date the expense was incurred. Claims older than 90 days will not be reimbursed. Expense claims must be approved by the direct line manager.
+
+==========================================================================
+5. DOMESTIC TRAVEL — ALLOWANCES (SRI LANKA)
+==========================================================================
+
+5.1 Accommodation
+
+  - Colombo City (if required):    Up to LKR 15,000 per night
+  - Other cities / regions:        Up to LKR 8,000 per night
+
+5.2 Daily Meal Allowance (on domestic overnight travel)
+
+  - Breakfast:                     LKR 600
+  - Lunch:                         LKR 900
+  - Dinner:                        LKR 1,200
+  - Total per day:                 LKR 2,700
+
+Meal allowances are not applicable if meals are already provided by the hotel or host organization.
+
+5.3 Ground Transport (Domestic)
+
+  - Taxi / ride-hailing (PickMe, Uber): Actuals, subject to reasonableness
+  - Private vehicle: LKR 25 per km (based on odometer reading; petrol receipts not required)
+  - Three-wheeler: Actuals; must be specifically pre-approved for business-appropriate routes only
+
+5.4 Day Trips (No Overnight)
+
+For same-day business travel, no meal allowance applies. Transport actuals (taxi/vehicle) will be reimbursed with receipt and prior approval.
+
+==========================================================================
+6. INTERNATIONAL TRAVEL
+==========================================================================
+
+6.1 Class of Travel
+
+  - Flights under 6 hours:         Economy class
+  - Flights 6 hours or more:       Business class (Grade M4 and above); Economy for below M4
+  - Upgrades using personal points: Permitted; cost difference is personal
+
+6.2 Hotel Accommodation (International)
+
+  - Standard: 4-star hotel, up to USD 180 per night
+  - Exceptional circumstances (client requirement or limited availability): Up to USD 250, with BU Head approval
+
+6.3 International Daily Allowance (Per Diem)
+
+Per diem rates by region (USD per day, covers meals and incidentals):
+
+  Region A (Singapore, Australia, UK, USA, Europe):    USD 75/day
+  Region B (India, Malaysia, Thailand, Indonesia):      USD 55/day
+  Region C (Maldives, Bangladesh, Pakistan):            USD 45/day
+
+If accommodation and all meals are provided by the host organization, 50% of the per diem applies for incidentals.
+
+6.4 Visa and Travel Insurance
+
+  - Visa fees: Reimbursed in full with official receipt
+  - Travel insurance: The Company provides group travel insurance for all approved international travel. Employees need not purchase personal travel insurance separately.
+
+6.5 Foreign Currency
+
+Employees should use the Company-issued Corporate Credit Card for international expenses wherever possible. Where personal funds are used, reimbursement will be made at the official Central Bank of Sri Lanka exchange rate on the date of expenditure.
+
+==========================================================================
+7. ENTERTAINMENT AND CLIENT HOSTING
+==========================================================================
+
+7.1 Business meals and client entertainment expenses are reimbursable where:
+  - The purpose is clearly business-related (meeting, negotiation, relationship building)
+  - The attendees are identified in the claim (names and organization)
+  - The cost is reasonable (maximum LKR 5,000 per head per meal for domestic; USD 80 per head international)
+
+7.2 Alcohol: Modest alcohol consumed at a business meal is reimbursable. Standalone alcohol purchases at a bar without a business meal are not.
+
+7.3 Gifts for Clients: Subject to the anti-bribery provisions of the Code of Conduct (HR-GLOBAL-001). Maximum LKR 5,000 per gift.
+
+==========================================================================
+8. NON-REIMBURSABLE EXPENSES
+==========================================================================
+
+The following are explicitly not reimbursable:
+  - Personal travel, leisure, or tourism
+  - Spouse / partner / family travel costs (unless pre-approved as part of a specific business event)
+  - Traffic fines, penalties, or tolls incurred through personal negligence
+  - First-class flights (unless economy or business is not available on a documented emergency)
+  - Minibar charges (unless part of legitimate per diem coverage)
+  - Personal subscription services
+  - Expenses incurred by non-employees without prior approval
+  - Claims submitted more than 90 days after the date of expenditure
+
+==========================================================================
+9. CLAIM SUBMISSION PROCESS
+==========================================================================
+
+9.1 All claims must be submitted via the Meridian Finance Portal (finance.meridianholdings.lk).
+
+9.2 Required supporting documents:
+  - Original receipts (or clear digital photographs)
+  - Boarding passes for all flights
+  - Hotel invoices for accommodation
+  - Brief business justification for each expense
+
+9.3 Approved claims will be reimbursed in the regular monthly payroll cycle or within 10 working days if a special reimbursement run is warranted.
+
+==========================================================================
+10. CORPORATE CREDIT CARD
+==========================================================================
+
+Selected employees are issued a Corporate Credit Card for business travel and entertainment expenses. Card usage is subject to this policy. Personal expenditure on the corporate card is strictly prohibited. Monthly card statements must be reconciled and submitted to Finance by the 5th of each month.
+
+==========================================================================
+11. AUDIT AND COMPLIANCE
+==========================================================================
+
+Finance will conduct quarterly audits of expense claims. Claims that appear inconsistent with this policy will be queried. Deliberate falsification of expense claims is fraud and will be subject to disciplinary action and potential criminal proceedings.
+
+==========================================================================
+12. RELATED POLICIES
+==========================================================================
+
+- HR-GLOBAL-001: Code of Conduct
+- Finance Policy FP-003: Procurement and Vendor Management
+
+For queries, contact finance@meridianholdings.lk.

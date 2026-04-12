@@ -1,0 +1,152 @@
+MERIDIAN HOLDINGS PLC
+ANNUAL LEAVE POLICY
+Policy Code: HR-LK-001
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Head of Human Resources
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+This policy sets out the entitlement, accrual, and procedures for taking annual leave for all permanent and confirmed employees of Meridian Holdings PLC and its subsidiary companies operating in Sri Lanka. The policy is designed to ensure employees have adequate rest, maintain work-life balance, and comply with the Shop and Office Employees Act No. 19 of 1954 and subsequent amendments.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all permanent full-time and part-time employees who have completed their probationary period. Contract employees and casual workers are governed by separate agreements. Employees on probation are not entitled to annual leave but may apply for unpaid leave with management approval.
+
+==========================================================================
+3. ANNUAL LEAVE ENTITLEMENT
+==========================================================================
+
+3.1 Standard Entitlement
+
+Employees are entitled to annual leave based on their years of continuous service with Meridian Holdings PLC:
+
+  - Less than 2 years of service:       14 working days per year
+  - 2 years to less than 5 years:       18 working days per year
+  - 5 years to less than 10 years:      21 working days per year
+  - 10 years and above:                 28 working days per year
+
+Part-time employees receive annual leave on a pro-rata basis calculated on their contracted hours relative to the standard 45-hour work week.
+
+3.2 Additional Leave for Senior Management
+
+Employees at Grade M4 (Senior Manager) and above are entitled to an additional 5 working days of annual leave per year, irrespective of years of service.
+
+3.3 Leave Year
+
+The leave year runs from 1 January to 31 December. Leave entitlement is credited in full at the start of each leave year for employees who have completed their probation.
+
+==========================================================================
+4. LEAVE ACCRUAL AND CARRY FORWARD
+==========================================================================
+
+4.1 Accrual for New Joiners
+
+Employees who join mid-year will have their annual leave entitlement pro-rated based on the number of complete calendar months remaining in the leave year from their date of joining.
+
+Formula: (Monthly entitlement) x (Number of remaining months in the year)
+
+Example: An employee joining on 1 April with a full-year entitlement of 14 days will receive: (14 ÷ 12) × 9 = 10.5 days, rounded up to 11 days.
+
+4.2 Carry Forward
+
+Employees may carry forward a maximum of 7 working days of unused annual leave to the following leave year. Carried-forward leave must be utilized by 31 March of the following year, after which it will lapse without compensation.
+
+Any carry forward above 7 days requires written approval from the respective Business Unit Head and the Group HR Director, and must be supported by a documented business reason (e.g., a critical project that prevented leave utilization).
+
+4.3 Leave Encashment
+
+Annual leave cannot ordinarily be encashed while an employee is in service. The only exception is upon resignation or retirement, where any remaining annual leave balance (including legitimately approved carry-forward) will be paid out at the employee's basic salary rate.
+
+==========================================================================
+5. LEAVE APPLICATION PROCEDURE
+==========================================================================
+
+5.1 Advance Notice
+
+Employees should apply for annual leave with as much advance notice as possible:
+  - Leave of 1–2 days: Minimum 3 working days' notice
+  - Leave of 3–5 days: Minimum 5 working days' notice
+  - Leave exceeding 5 consecutive days: Minimum 2 weeks' notice
+
+5.2 Application Process
+
+All leave applications must be submitted through the Meridian Employee Self-Service (ESS) portal at hr.meridianholdings.lk. Verbal or WhatsApp approvals are not valid. The direct line manager is the first approving authority. For absences exceeding 10 consecutive working days, the Business Unit Head's approval is also required.
+
+5.3 Manager Discretion
+
+Managers may decline or reschedule leave requests on business grounds. However, managers are expected to accommodate leave requests wherever possible and must not consistently deny leave without valid justification. If a leave request is declined, the manager must communicate the reason in writing within 2 working days and suggest an alternative period.
+
+5.4 Minimum Continuous Leave
+
+The Company encourages employees to take a minimum of 5 consecutive working days of annual leave at least once a year for rest and recuperation.
+
+==========================================================================
+6. PUBLIC HOLIDAYS
+==========================================================================
+
+Annual leave is separate from public holidays. Public holidays as gazetted by the Government of Sri Lanka are given in addition to annual leave. The Company will follow the official public holiday calendar published annually. See the Meridian Holdings 2026 Holiday Calendar (HR-LK-008) for the specific list of holidays applicable for the current year.
+
+==========================================================================
+7. LEAVE DURING NOTICE PERIOD
+==========================================================================
+
+Annual leave may not ordinarily be taken during the notice period of resignation or termination, unless:
+  - There is a mutual written agreement between the employee and the Company, and
+  - The leave balance cannot reasonably be paid out
+
+Where leave is approved during notice, it will be deducted from the outstanding leave balance and the notice period will be extended accordingly.
+
+==========================================================================
+8. UNAUTHORIZED ABSENCE
+==========================================================================
+
+Absence without approved leave will be treated as unauthorized absence and may result in:
+  - Loss of pay for the days absent (LOP)
+  - Disciplinary action under the Meridian Code of Conduct and Discipline Policy
+  - In cases of repeated or extended unauthorized absence, termination of employment
+
+==========================================================================
+9. SPECIAL SITUATIONS
+==========================================================================
+
+9.1 Illness During Annual Leave
+
+If an employee falls ill during approved annual leave and is hospitalized or confined to bed for more than 2 consecutive days, they may apply to convert those days to medical leave, subject to submission of a valid medical certificate from a registered medical practitioner within 2 working days of returning to work.
+
+9.2 Public Holiday During Annual Leave
+
+If a gazetted public holiday falls within an approved annual leave period, that day will not be counted as annual leave.
+
+9.3 Leave for Religious Observances
+
+Employees are encouraged to plan annual leave around their personal religious observances. The Company will make every reasonable effort to accommodate such requests.
+
+==========================================================================
+10. RESPONSIBILITIES
+==========================================================================
+
+Employee: Apply for leave in advance, ensure adequate handover, and update leave balance records on ESS.
+
+Line Manager: Approve or decline leave requests within 2 working days, ensure team coverage, and monitor leave balances regularly.
+
+HR Department: Maintain accurate leave records, audit leave balances annually, and ensure policy compliance.
+
+==========================================================================
+11. RELATED POLICIES
+==========================================================================
+
+- HR-LK-002: Medical and Sick Leave Policy
+- HR-LK-003: Maternity and Paternity Leave Policy
+- HR-LK-008: Holiday Calendar 2026
+- HR-LK-010: Resignation and Exit Policy
+
+==========================================================================
+12. POLICY REVIEW
+==========================================================================
+
+This policy will be reviewed annually or when there is a change in applicable legislation. For queries, contact the HR Business Partner for your Business Unit or email hr@meridianholdings.lk.

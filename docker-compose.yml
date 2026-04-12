@@ -1,0 +1,8 @@
+# Vector storage is now handled by Supabase PostgreSQL with pgvector.
+# No local services required — configure SUPABASE_DB_URL in your .env files.
+#
+# To run the backend locally:
+#   cd backend && uvicorn app.main:app --reload
+#
+# To run ingestion locally:
+#   cd ingestion && python main.py

@@ -1,0 +1,160 @@
+MERIDIAN HOLDINGS PLC
+LEARNING, TRAINING AND DEVELOPMENT POLICY
+Policy Code: HR-GLOBAL-006
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Chief Human Resources Officer
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+Meridian Holdings PLC is committed to developing its people as a core pillar of its strategy. This policy outlines the Company's approach to employee learning, training sponsorship, and professional development, and sets out the obligations of both the Company and the employee.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all permanent employees of Meridian Holdings PLC globally. It governs both Company-mandated training and employee-initiated learning and development activities.
+
+==========================================================================
+3. TYPES OF LEARNING AND DEVELOPMENT
+==========================================================================
+
+3.1 Mandatory Training
+
+Certain training programs are mandatory for all employees or for specific roles. These include:
+  - Code of Conduct and Anti-Bribery (annually, all employees)
+  - Data Privacy and Information Security (annually, all employees)
+  - Health and Safety induction (all new joiners within first month)
+  - Anti-Money Laundering (Meridian Finance BU employees — annually)
+  - Fire and Emergency Procedures (all employees, bi-annually)
+
+Failure to complete mandatory training within the specified deadline may impact the employee's annual performance rating.
+
+3.2 Role-Specific Technical Training
+
+Training required for specific roles (e.g., accounting software, warehouse management systems, CRM tools) will be provided and fully funded by the Company as part of the onboarding and ongoing role development plan.
+
+3.3 Developmental Training (Soft Skills and Leadership)
+
+The Company provides a range of developmental programs through the Meridian Learning Academy, including:
+  - Leadership development programs (Meridian Emerging Leaders, Meridian Senior Leaders)
+  - Communication, presentation, and influencing skills
+  - Project management and agile methodologies
+  - Finance for non-finance managers
+
+Access to these programs is based on the employee's development plan as agreed in their annual performance review.
+
+3.4 External Training and Professional Qualifications
+
+Employees may apply for Company sponsorship to pursue external courses, certifications, or professional qualifications relevant to their role.
+
+==========================================================================
+4. TRAINING SPONSORSHIP
+==========================================================================
+
+4.1 Eligibility
+
+Employees are eligible to apply for training sponsorship after completing their probationary period and being in a confirmed permanent role for at least 6 months.
+
+4.2 Sponsorship Categories
+
+  Category A — Partial Sponsorship (50% of fees):
+    - Short courses, workshops, or certifications up to LKR 50,000 total annual value
+    - No training bond required
+
+  Category B — Full Sponsorship (100% of fees):
+    - Professional qualifications (CIMA, ACCA, CIPS, CHARTED HRM, etc.) or any course exceeding LKR 50,000 total value
+    - Training bond applies (see Section 4.4)
+
+  Category C — Post-Graduate Studies:
+    - MBA or equivalent master's programs: Up to LKR 500,000 over the program duration
+    - Available to Grade M2 and above employees with a minimum of 2 years' service
+    - Training bond applies
+
+4.3 Application Process
+
+Employees must complete the Training Sponsorship Application Form on the ESS portal, including:
+  - Details of the course/qualification (institution, duration, cost, relevance to role)
+  - Manager's endorsement
+  - Expected business benefit
+
+Applications must be submitted at least 6 weeks before the course commencement date. Approval is required from the line manager, BU Head, and HR Business Partner.
+
+4.4 Training Bond
+
+Category B and Category C sponsorships are subject to a training bond:
+
+  For sponsorship of LKR 50,001 – LKR 150,000:
+    - Bond duration: 12 months following completion of training
+
+  For sponsorship of LKR 150,001 – LKR 500,000:
+    - Bond duration: 24 months following completion of training
+
+  For sponsorship above LKR 500,000:
+    - Bond duration: 36 months following completion of training
+
+If the employee leaves within the bond period (for any reason other than Company-initiated redundancy), they must repay the sponsorship on a pro-rated basis:
+  - Within first 50% of bond period: repay 100% of sponsorship
+  - During second 50% of bond period: repay 50% of sponsorship
+
+Bond repayments will be deducted from the final settlement where possible.
+
+==========================================================================
+5. STUDY LEAVE
+==========================================================================
+
+5.1 Employees pursuing Company-sponsored qualifications are entitled to:
+  - Up to 5 paid study days per exam sitting for professional qualifications (maximum 3 sittings per year)
+  - Travel time to examination centers if outside the employee's regular work location
+
+5.2 Study leave is granted on the basis of active enrollment and exam registration confirmation.
+
+5.3 If an employee fails an exam, they are permitted to resit it under the sponsorship arrangement twice in total. After two failures of the same exam, continued sponsorship will be reviewed.
+
+==========================================================================
+6. LEARNING TIME
+==========================================================================
+
+6.1 All employees are encouraged to dedicate at least 2 hours per week to structured learning and professional development during working hours, agreed with their manager.
+
+6.2 Access to the Meridian Learning Academy online platform is available to all employees. The platform offers over 2,000 courses across business, technical, and soft skills.
+
+6.3 Managers should discuss development plans with each team member at least twice a year — at the mid-year check-in and the annual review.
+
+==========================================================================
+7. RETURN ON LEARNING
+==========================================================================
+
+7.1 Employees who complete externally sponsored training are expected to share key learnings with their team within 30 days of completion (e.g., a brief knowledge-share session or a summary note).
+
+7.2 Managers should create opportunities for employees to apply newly acquired skills in their work.
+
+==========================================================================
+8. REFUSAL OF TRAINING REQUEST
+==========================================================================
+
+The Company may decline a training sponsorship request on the following grounds:
+  - The training is not sufficiently relevant to the current or likely future role
+  - The Business Unit budget is exhausted for the year
+  - The employee's current performance or conduct does not warrant the investment
+  - The timing conflicts with critical operational needs
+
+In all cases, the reason for refusal will be communicated in writing. Employees may reapply in the next budget cycle.
+
+==========================================================================
+9. TRAINING RECORDS
+==========================================================================
+
+The HR department maintains records of all completed training for each employee. Training history is visible to the employee on the ESS portal and will be considered in performance reviews and succession planning decisions.
+
+==========================================================================
+10. RELATED POLICIES
+==========================================================================
+
+- HR-GLOBAL-001: Code of Conduct
+- HR-LK-005: Probation and Confirmation Policy
+- HR-LK-010: Resignation and Exit Policy (training bond provisions)
+
+For queries, contact hr@meridianholdings.lk or the Meridian Learning Academy team at learning@meridianholdings.lk.

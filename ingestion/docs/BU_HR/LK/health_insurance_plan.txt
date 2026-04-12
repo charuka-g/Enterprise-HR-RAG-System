@@ -1,0 +1,221 @@
+MERIDIAN HOLDINGS PLC
+GROUP HEALTH INSURANCE PLAN — SUMMARY OF BENEFITS
+Policy Code: HR-LK-007
+Plan Year: January 2025 to December 2025
+Insurance Provider: AIA Sri Lanka
+Approved By: Group Head of Human Resources & Group CFO
+
+==========================================================================
+INTRODUCTION
+==========================================================================
+
+Meridian Holdings PLC provides comprehensive Group Health Insurance to all permanent employees and their eligible dependants. This document is a summary of the key benefits. Full terms, conditions, exclusions, and claims procedures are in the Master Policy Document held by the HR department. In case of any conflict between this summary and the Master Policy, the Master Policy prevails.
+
+For the most up-to-date panel hospital list, claim forms, and pre-authorization requests, visit: hr.meridianholdings.lk/insurance or contact the HR helpline.
+
+==========================================================================
+1. ELIGIBILITY AND ENROLLMENT
+==========================================================================
+
+1.1 Who is Covered
+
+  - Employee: All permanent full-time and part-time employees
+  - Spouse: Legal spouse (marriage certificate required at enrollment)
+  - Children: Up to 2 children under the age of 18 (or up to 23 if in full-time education; documentary proof required)
+
+Domestic partners are not covered under the current scheme.
+
+1.2 When Coverage Begins
+
+  - Employee: From the 1st day of the month following the 30th day of employment (i.e., if you join on 5 March, coverage begins 1 May)
+  - Dependants: From the date the dependant is enrolled. Enrollment must be done within 30 days of the qualifying event (marriage, childbirth, adoption). Late enrollment is not permitted until the next open enrollment period (January each year).
+
+1.3 When Coverage Ends
+
+Coverage ends on the last day of the month in which the employee's employment terminates.
+
+==========================================================================
+2. IN-PATIENT (HOSPITALIZATION) BENEFITS
+==========================================================================
+
+2.1 Annual Limits
+
+  Employee:                      LKR 1,500,000 per policy year
+  Spouse:                        LKR 1,000,000 per policy year
+  Each child (max 2 children):   LKR 750,000 per policy year
+
+2.2 Room and Board
+
+  - Standard single room:        Up to LKR 8,000 per day (panel hospitals)
+  - ICU / High Dependency Unit:  Up to LKR 20,000 per day
+
+If the employee chooses a room exceeding the policy limit, the difference is the employee's personal responsibility.
+
+2.3 What Is Covered (In-Patient)
+
+  - Surgeon and specialist fees
+  - Anesthesiologist fees
+  - Operating theatre charges
+  - Nursing care
+  - Laboratory tests and investigations
+  - Prescribed medications administered during hospitalization
+  - Physiotherapy required during the hospital stay
+  - Ambulance services (to the nearest suitable hospital): LKR 5,000 per incident
+
+2.4 Pre-Authorization
+
+All planned (non-emergency) hospitalizations must be pre-authorized by AIA Sri Lanka at least 48 hours before admission. Pre-authorization is obtained by the HR department on behalf of the employee. For emergencies, notification to AIA must be given within 24 hours of admission.
+
+2.5 Panel Hospitals — Cashless Treatment
+
+Cashless treatment (no upfront payment required) is available at panel hospitals. The insured must present their Meridian Group Insurance Card (issued by HR) upon admission. A list of panel hospitals is available at hr.meridianholdings.lk/insurance/panel-hospitals.
+
+2.6 Non-Panel Hospitals
+
+Treatment at non-panel hospitals is covered but requires the employee to pay upfront and submit a reimbursement claim within 60 days. Reimbursement is subject to reasonable and customary charges.
+
+==========================================================================
+3. OUT-PATIENT (OPD) BENEFITS
+==========================================================================
+
+3.1 OPD coverage applies to the employee only (not dependants under this scheme).
+
+3.2 Annual OPD Limit (Employee):    LKR 75,000 per policy year
+
+3.3 Co-Payment
+
+A co-payment of 20% applies to all OPD claims. The remaining 80% is reimbursed by AIA.
+
+Example: A consultation costs LKR 3,000.
+  Employee pays: LKR 600 (20%)
+  AIA reimburses: LKR 2,400 (80%)
+
+3.4 What OPD Covers
+
+  - General practitioner and specialist consultations
+  - Prescribed medications (from registered pharmacy; maximum LKR 5,000 per prescription)
+  - Diagnostic tests ordered by a doctor (blood tests, X-rays, ultrasound, MRI)
+  - Physiotherapy (maximum 12 sessions per year, with doctor's referral)
+
+3.5 What OPD Does NOT Cover
+
+  - Over-the-counter medications without prescription
+  - Cosmetic treatments
+  - Alternative medicine (Ayurveda, homeopathy) — see Section 6
+  - Dietary supplements and vitamins
+  - Dental (covered separately — Section 5)
+  - Optical (covered separately — Section 5)
+  - Annual health screenings (provided separately by the Company — see HR-LK-007a)
+
+==========================================================================
+4. CRITICAL ILLNESS COVER
+==========================================================================
+
+4.1 A lump-sum payment of LKR 2,000,000 is payable to the employee upon first diagnosis of any of the following covered conditions:
+
+  - Invasive cancer
+  - Heart attack (myocardial infarction)
+  - Coronary artery bypass surgery
+  - Stroke (with permanent neurological deficit)
+  - Kidney failure requiring dialysis
+  - Major organ transplant (heart, liver, kidney, lung)
+  - Paralysis of limbs
+  - Aortic surgery
+  - Blindness (permanent and total)
+  - Deafness (permanent and total)
+  - Loss of limbs (two or more)
+  - Major burns (covering more than 20% of body surface area)
+  - Alzheimer's disease (before age 65, based on confirmed diagnosis)
+  - Parkinson's disease (before age 65, based on confirmed diagnosis)
+
+4.2 The critical illness benefit is payable independently of any hospitalization claim and does not reduce the in-patient limit.
+
+4.3 A survival period of 30 days from the date of diagnosis applies.
+
+==========================================================================
+5. SUPPLEMENTARY BENEFITS
+==========================================================================
+
+5.1 Dental (Employee Only)
+
+  Annual limit:                  LKR 30,000 per policy year
+  Covered:
+    - Scaling and polishing (once per year)
+    - Fillings (amalgam and composite)
+    - Root canal treatment
+    - Tooth extractions
+    - X-rays
+  Not Covered:
+    - Orthodontics (braces, aligners)
+    - Implants
+    - Crowns and veneers (cosmetic)
+    - Whitening
+
+5.2 Vision / Optical (Employee Only)
+
+  Benefit cycle:                 LKR 20,000 every 2 policy years
+  Covered:
+    - Prescription eyeglasses (frames and lenses)
+    - Prescription contact lenses
+    - Eye examination by a registered optometrist
+  Not Covered:
+    - LASIK or laser eye surgery
+    - Non-prescription glasses or sunglasses
+
+==========================================================================
+6. WELLNESS BENEFIT
+==========================================================================
+
+  - Ayurveda / Traditional Medicine:   LKR 10,000 per year for treatments at registered government-approved practitioners
+  - Annual health screening:            Provided separately by the Company (see HR-LK-007a for details). Not deducted from OPD limit.
+
+==========================================================================
+7. MATERNITY BENEFIT
+==========================================================================
+
+  Covered as in-patient under the standard hospitalization benefit.
+  Normal delivery:       Up to LKR 100,000 (room, delivery charges, 3-day stay)
+  Caesarean section:    Up to LKR 200,000 (room, surgical fees, 5-day stay)
+  New-born care:        Covered under the new-born's individual limit from birth registration
+
+  Pre-natal visits:     Not covered under this scheme (covered partially via OPD for investigations)
+
+==========================================================================
+8. EXCLUSIONS (KEY HIGHLIGHTS)
+==========================================================================
+
+The following are not covered. This is not an exhaustive list — please refer to the Master Policy:
+  - Pre-existing conditions diagnosed or treated within 12 months prior to enrollment (waiting period 12 months)
+  - Self-inflicted injuries or suicide attempt
+  - War, terrorism, or civil unrest injuries
+  - Injuries sustained under the influence of alcohol or drugs
+  - Elective or cosmetic surgery
+  - Experimental treatments or clinical trials
+  - Weight loss surgery (bariatric)
+  - Infertility treatments (IVF, IUI)
+  - Mental health in-patient hospitalization beyond 30 days per year
+  - Treatment outside Sri Lanka (unless emergency, capped at LKR 500,000)
+
+==========================================================================
+9. HOW TO MAKE A CLAIM
+==========================================================================
+
+9.1 Cashless Claims (Panel Hospitals — In-patient)
+
+  Step 1: Contact HR Benefits Administrator at least 48 hours before planned admission.
+  Step 2: HR will request pre-authorization from AIA.
+  Step 3: Present your Meridian Insurance Card at the hospital upon admission.
+  Step 4: Hospital settles directly with AIA. Employee pays only non-covered items.
+
+9.2 Reimbursement Claims (Non-Panel or OPD)
+
+  Step 1: Pay for treatment and collect original receipts, prescriptions, and lab reports.
+  Step 2: Complete the AIA Claim Form (available on HR portal or from AIA offices).
+  Step 3: Submit to HR Benefits Administrator within 60 days of the date of service.
+  Step 4: HR submits to AIA. Reimbursement processed within 15–20 working days.
+
+9.3 Contact
+
+  HR Benefits Administrator:    benefits@meridianholdings.lk
+  AIA Sri Lanka Claims Hotline:  1919
+  AIA Meridian Group Policy Ref: MH-GHI-2025-0044

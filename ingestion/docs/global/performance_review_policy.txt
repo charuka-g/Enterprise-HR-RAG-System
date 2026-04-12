@@ -1,0 +1,188 @@
+MERIDIAN HOLDINGS PLC
+PERFORMANCE MANAGEMENT AND ANNUAL REVIEW POLICY
+Policy Code: HR-GLOBAL-007
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Chief Human Resources Officer
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+Meridian Holdings PLC believes that clear performance expectations, regular feedback, and structured development conversations are essential to individual and organizational success. This policy sets out the Company's performance management framework, including goal-setting, continuous feedback, mid-year reviews, and the annual performance appraisal process.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all permanent confirmed employees across all Meridian Holdings PLC business units globally. Employees on probation are subject to the Probation and Confirmation Policy (HR-LK-005). Contract employees may participate in adapted performance reviews as specified in their contracts.
+
+==========================================================================
+3. PERFORMANCE MANAGEMENT PHILOSOPHY
+==========================================================================
+
+  - Performance is a continuous conversation, not an annual event.
+  - Goals should be clear, measurable, and stretching but achievable.
+  - Feedback should be timely, specific, and two-directional (manager to employee and employee to manager).
+  - The process should differentiate performance fairly and transparently.
+  - Development is an integral part of performance management, not an afterthought.
+
+==========================================================================
+4. THE PERFORMANCE MANAGEMENT CYCLE
+==========================================================================
+
+The performance year runs from 1 January to 31 December.
+
+  January:       Goal-setting and cascading of BU objectives
+  March:         Confirmation of individual goals on ESS portal
+  June / July:   Mid-year performance check-in
+  October:       Self-assessment opens on ESS portal
+  November:      Manager assessments and calibration
+  December:      Final ratings communicated; development plans set for next year
+  January (next year): Salary reviews and bonus payments linked to ratings
+
+==========================================================================
+5. GOAL-SETTING
+==========================================================================
+
+5.1 Structure
+
+Goals must follow the SMART framework:
+  - Specific: Clearly defined, not vague
+  - Measurable: Quantifiable or with a clear success criterion
+  - Achievable: Challenging but realistic given available resources
+  - Relevant: Aligned to the BU and Company strategy
+  - Time-bound: Linked to a specific completion date or review milestone
+
+5.2 Number of Goals
+
+Employees should have between 4 and 7 goals per year:
+  - At least 2 goals must be quantitative business/performance goals
+  - At least 1 goal must be a personal development goal
+  - Goals should be agreed and uploaded to the ESS portal by 31 March
+
+5.3 Weighting
+
+Goals may be weighted to reflect their relative importance. Total weighting must sum to 100%.
+
+5.4 Goal Amendments
+
+Goals may be amended during the year with mutual agreement of the employee and manager, documented on the ESS portal. Significant changes (e.g., due to a role change, a major project shift) require HR Business Partner notification.
+
+==========================================================================
+6. CONTINUOUS FEEDBACK
+==========================================================================
+
+6.1 One-on-One Meetings
+
+Managers are expected to hold regular one-on-one meetings with each team member — at minimum bi-weekly. The purpose is to discuss progress, remove obstacles, provide coaching, and maintain engagement.
+
+6.2 Real-Time Feedback
+
+Employees and managers are encouraged to give and receive real-time feedback using the Meridian Feedback feature on the ESS portal. Feedback can be goal-linked or behavioral.
+
+6.3 360 Feedback
+
+For Grade M2 and above, an optional 360-degree feedback process is available during the annual review cycle. Peers and stakeholders are nominated by the employee and manager jointly, and feedback is confidential.
+
+==========================================================================
+7. MID-YEAR REVIEW
+==========================================================================
+
+7.1 All employees must have a formal mid-year review discussion with their manager between 15 June and 31 July.
+
+7.2 The mid-year review should:
+  - Assess progress against the agreed goals (approximately what % complete)
+  - Identify any goals that need to be updated or removed due to changed circumstances
+  - Discuss strengths displayed in the first half of the year
+  - Identify 1–2 focus areas or development actions for the second half
+  - Check in on wellbeing and engagement
+
+7.3 A brief summary of the mid-year discussion must be recorded on the ESS portal by the manager, and the employee must acknowledge it electronically.
+
+==========================================================================
+8. ANNUAL PERFORMANCE APPRAISAL
+==========================================================================
+
+8.1 Self-Assessment
+
+Employees complete a self-assessment on the ESS portal in October, covering:
+  - Rating and commentary on each goal
+  - Overall self-rating
+  - Key achievements
+  - Challenges and learning
+  - Development goals for the next year
+
+8.2 Manager Assessment
+
+Managers complete their assessment in November, covering:
+  - Rating and commentary on each goal (can differ from employee self-rating)
+  - Overall manager rating
+  - Behavioral assessment against Meridian Leadership Competencies
+  - Development recommendations
+
+8.3 Performance Rating Scale
+
+  Rating 5 — Outstanding:           Performance significantly exceeds all goals. Exceptional impact. Top ~10% of performers.
+  Rating 4 — Exceeds Expectations:  Consistently delivers above expectations on most goals. Strong contributor. Top ~20%.
+  Rating 3 — Meets Expectations:    Delivers on agreed goals. Reliable and competent. Majority of the workforce.
+  Rating 2 — Below Expectations:    Partially delivers on goals. Areas of concern that need active improvement.
+  Rating 1 — Unsatisfactory:        Significantly fails to meet goals. Performance Improvement Plan (PIP) required.
+
+8.4 Calibration
+
+Before ratings are finalized, BU Heads and HR Business Partners conduct a calibration session to ensure:
+  - Consistency of ratings across the team/department
+  - Differentiation between high and low performers
+  - Elimination of bias (e.g., halo effect, recency bias)
+  - Ratings distribution aligns approximately with the bell curve guidance:
+    Ratings 5 + 4: ~30% of population
+    Rating 3:       ~60% of population
+    Ratings 1 + 2:  ~10% of population
+
+This is a guideline, not a forced distribution. BUs that genuinely have outstanding teams will not be forced to rate people down.
+
+8.5 Appraisal Meeting
+
+After calibration, managers must hold a formal appraisal meeting with each team member to:
+  - Communicate the final performance rating and rationale
+  - Discuss strengths and areas for development
+  - Agree on development actions and goals for the next year
+
+Appraisal discussions must be constructive and respectful. Employees who disagree with their rating may raise this with the HR Business Partner within 10 working days.
+
+==========================================================================
+9. LINK TO REWARD
+==========================================================================
+
+  - Salary Increases: Linked to performance rating and market benchmarking, effective 1 April each year
+  - Annual Bonus: Paid in January for the prior year's performance; linked to individual rating and BU financial performance
+  - Promotions: Typically linked to sustained performance at ratings 4–5 over 2 consecutive years, combined with role availability and succession planning
+
+Rating 1 employees: No salary increase, no bonus, placed on a mandatory Performance Improvement Plan (PIP).
+Rating 2 employees: No bonus; salary increase at HR discretion; development support provided.
+
+==========================================================================
+10. PERFORMANCE IMPROVEMENT PLAN (PIP)
+==========================================================================
+
+10.1 A PIP is a structured plan to support an employee who is not meeting performance expectations. It is not a disciplinary process but can lead to one if there is no improvement.
+
+10.2 A PIP must include:
+  - Clear, specific performance expectations
+  - A defined improvement period (typically 60–90 days)
+  - Regular check-in meetings (at least weekly)
+  - Resources or support the Company will provide
+  - Consequences if improvement targets are not met
+
+10.3 PIPs must be prepared with HR Business Partner involvement and shared with the employee in writing.
+
+==========================================================================
+11. RELATED POLICIES
+==========================================================================
+
+- HR-LK-005: Probation and Confirmation Policy
+- HR-GLOBAL-006: Learning, Training and Development Policy
+- HR-LK-006: Grievance Handling Policy
+
+For queries, contact hr@meridianholdings.lk.

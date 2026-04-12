@@ -1,0 +1,144 @@
+MERIDIAN HOLDINGS PLC
+OVERTIME AND SHIFT WORK POLICY
+Policy Code: HR-LK-004
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Head of Human Resources
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+This policy governs the authorization, calculation, and payment of overtime for eligible employees of Meridian Holdings PLC in Sri Lanka. It ensures compliance with the Shop and Office Employees Act (Regulation of Employment and Remuneration) Act No. 15 of 1954 and protects both employees and the Company from unlawful practices.
+
+==========================================================================
+2. SCOPE AND ELIGIBILITY
+==========================================================================
+
+2.1 Eligible Employees
+
+Overtime provisions apply to all non-managerial employees (Grades A1 to M2). Employees at Grade M3 (Manager) and above are designated as "exempt" from overtime under the terms of their employment contracts, and any additional hours worked are considered part of their managerial responsibilities.
+
+2.2 Standard Working Hours
+
+The standard working week for Meridian Holdings PLC is:
+  - Monday to Friday: 8.5 hours per day (including a 30-minute lunch break)
+  - Standard hours: 8:30 AM to 5:30 PM (may vary by BU; refer to your appointment letter)
+  - Maximum standard weekly hours: 45 hours
+
+For Meridian Retail employees, shift rosters determine standard hours. The 45-hour cap applies across shift patterns averaged over a 4-week period.
+
+==========================================================================
+3. OVERTIME DEFINITION
+==========================================================================
+
+Overtime is any working time beyond the standard 45 hours per week (or the equivalent daily threshold of 9 hours for daily-rated employees). The following do not count as overtime:
+  - Time spent on voluntary company social or training events
+  - Time spent on personal activities on company premises
+  - Work done during lunch breaks at the employee's own discretion
+
+==========================================================================
+4. OVERTIME AUTHORIZATION
+==========================================================================
+
+4.1 All overtime must be pre-approved in writing by the employee's direct line manager via the ESS portal before the overtime is worked. Retroactive approval is only permitted in genuine emergency situations and requires BU Head sign-off.
+
+4.2 Unapproved overtime will not be compensated unless the employee can demonstrate that the nature of the task required immediate action and that prior approval was not practicable.
+
+4.3 Managers must plan workloads to minimize the need for excessive overtime. Consistent reliance on overtime as a workforce management tool will be reviewed by HR.
+
+==========================================================================
+5. OVERTIME RATES
+==========================================================================
+
+5.1 Weekdays (Monday to Friday)
+
+  - First 2 hours beyond standard daily hours: 1.5x the employee's basic hourly rate
+  - Beyond 2 hours on the same day:            2.0x the employee's basic hourly rate
+
+5.2 Saturdays
+
+  - First 5 hours: 1.5x the employee's basic hourly rate
+  - Beyond 5 hours: 2.0x the employee's basic hourly rate
+
+Note: Saturday work is uncommon for office staff. It requires prior BU Head approval.
+
+5.3 Sundays
+
+  - All hours worked: 2.0x the employee's basic hourly rate
+
+5.4 Public Holidays
+
+  - All hours worked: 2.0x the employee's basic hourly rate
+  - OR one substitute working day off in lieu (employee's choice)
+
+5.5 Hourly Rate Calculation
+
+  Basic Hourly Rate = (Monthly Basic Salary x 12) ÷ (52 weeks x 45 hours)
+
+Example: If monthly basic salary is LKR 80,000:
+  Annual basic = 80,000 x 12 = 960,000
+  Hourly rate  = 960,000 ÷ (52 x 45) = 960,000 ÷ 2,340 = LKR 410.26
+
+==========================================================================
+6. LIMITS ON OVERTIME
+==========================================================================
+
+6.1 To protect employee health and wellbeing:
+  - Maximum overtime per day: 4 hours
+  - Maximum overtime per week: 12 hours
+  - Maximum overtime per month: 40 hours
+
+These limits may only be exceeded in declared emergency situations (e.g., system failure, natural disaster response, critical client deadline) with written approval from the Business Unit Head and HR Director.
+
+6.2 Employees must take a minimum of 11 consecutive hours of rest between shifts.
+
+==========================================================================
+7. SHIFT WORK (APPLICABLE TO MERIDIAN RETAIL AND IT OPERATIONS)
+==========================================================================
+
+7.1 Shift Allowances
+
+Employees working designated shifts receive shift allowances as follows:
+
+  - Evening shift (6 PM to 10 PM):  LKR 300 per shift
+  - Night shift (10 PM to 6 AM):    LKR 700 per shift
+  - Split shift (break of 3+ hours between split segments): LKR 200 per shift
+
+Shift allowances are paid monthly alongside salary and are not included in the basic salary for overtime calculations.
+
+7.2 Roster Notification
+
+Shift rosters must be communicated to employees at least 7 days in advance. Changes to published rosters require 48 hours' notice, except in emergency situations.
+
+7.3 Rest Days
+
+Shift workers are entitled to at least one full rest day per week. Where a rest day falls on a public holiday, a substitute rest day will be provided within the same week.
+
+==========================================================================
+8. OVERTIME PAYMENT TIMELINE
+==========================================================================
+
+Approved and logged overtime will be paid in the payroll cycle of the following month. Overtime claims must be submitted on the ESS portal by the 25th of the month in which the overtime was worked. Claims submitted after this deadline will be processed in the next cycle.
+
+==========================================================================
+9. RECORD KEEPING
+==========================================================================
+
+Both employees and managers are responsible for ensuring accurate records are maintained on the ESS portal. The HR department will conduct quarterly audits of overtime records. Discrepancies or anomalies will be escalated to the BU Head.
+
+==========================================================================
+10. HEALTH AND WELLBEING
+==========================================================================
+
+Meridian Holdings PLC is committed to the health of its employees. HR Business Partners will proactively review employees who consistently work more than 50 hours per week and may initiate a workload review meeting with the employee and their manager.
+
+==========================================================================
+11. RELATED POLICIES
+==========================================================================
+
+- HR-LK-001: Annual Leave Policy
+- HR-LK-008: Holiday Calendar 2026
+- HR-GLOBAL-001: Code of Conduct
+
+For queries, contact hr@meridianholdings.lk.

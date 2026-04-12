@@ -1,0 +1,170 @@
+MERIDIAN HOLDINGS PLC
+SALARY, PAYROLL AND COMPENSATION POLICY
+Policy Code: HR-LK-009
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Head of Human Resources & Group CFO
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+This policy describes how Meridian Holdings PLC manages employee compensation, payroll administration, salary increments, and allowances for all employees in Sri Lanka. It ensures transparent, consistent, and lawful compensation practices across all business units.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all permanent full-time and part-time employees of Meridian Holdings PLC and its subsidiaries in Sri Lanka. Contract and casual workers are governed by their individual agreements.
+
+==========================================================================
+3. COMPENSATION STRUCTURE
+==========================================================================
+
+3.1 Components of Total Compensation
+
+Each employee's total compensation package may include:
+
+  a) Basic Salary: The fixed monthly amount as specified in the appointment letter. This is the basis for EPF/ETF calculations, overtime, gratuity, and leave encashment.
+
+  b) Fixed Allowances (paid monthly, not variable):
+     - Transport Allowance (grade-dependent; see Section 7)
+     - Communication Allowance (grade-dependent)
+     - Rice and Curry (Meal) Allowance: LKR 3,500 per month (all grades)
+
+  c) Variable Pay:
+     - Performance Bonus (annual; linked to performance rating)
+     - 13th Month Salary (guaranteed; paid in December)
+     - Overtime Pay (where applicable; see HR-LK-004)
+
+  d) Benefits-in-Kind:
+     - Health insurance, company vehicle (senior grades), laptop, etc.
+
+3.2 Salary Bands
+
+Salary bands by grade are reviewed annually by the HR department against market data from McLagan / Mercer Sri Lanka surveys. The bands are:
+
+  Grade A1 (Junior Executive):      LKR 45,000 – LKR 65,000
+  Grade A2 (Executive):             LKR 65,000 – LKR 90,000
+  Grade A3 (Senior Executive):      LKR 90,000 – LKR 130,000
+  Grade A4 (Lead / Analyst):        LKR 130,000 – LKR 175,000
+  Grade M1 (Assistant Manager):     LKR 175,000 – LKR 240,000
+  Grade M2 (Manager):               LKR 240,000 – LKR 350,000
+  Grade M3 (Senior Manager):        LKR 350,000 – LKR 500,000
+  Grade M4 (Head / General Manager): LKR 500,000 – LKR 800,000
+  Grade M5+ (Director and above):   LKR 800,000 and above (negotiated)
+
+Salaries outside the band require CHRO approval.
+
+==========================================================================
+4. PAYROLL SCHEDULE
+==========================================================================
+
+4.1 Salary Payment Date
+
+Salaries are paid on the last working day of each month via direct bank transfer to the employee's nominated bank account. If the last working day falls on a public holiday, payment is made on the last working day before the holiday.
+
+4.2 Payslip
+
+Electronic payslips are generated and accessible on the ESS portal by the 28th of each month. Physical payslips are available on request from the HR/Finance office.
+
+4.3 Salary Queries
+
+Employees who have a query about their payslip must raise it with the HR/Payroll team within 3 months of the payslip date. Queries older than 3 months will not be retroactively adjusted unless there was a demonstrated system or administrative error.
+
+Contact: payroll@meridianholdings.lk
+
+==========================================================================
+5. STATUTORY DEDUCTIONS
+==========================================================================
+
+The following deductions are made from gross salary before net pay is calculated:
+
+  a) Employees' Provident Fund (EPF):
+     Employee contribution: 8% of gross salary
+
+  b) PAYE (Pay As You Earn) Tax:
+     Calculated on chargeable income per the Inland Revenue Act (as amended).
+     The Company acts as the withholding agent and remits PAYE to the Inland Revenue Department (IRD).
+     Employees may submit a Tax Withholding Declaration Form (APIT) to the Payroll team for revised withholding where applicable.
+
+  c) Loan / Advance Repayments:
+     Any approved staff loans or salary advances will be deducted as per the agreed schedule.
+
+  d) Any other court-ordered or legally mandated deductions.
+
+==========================================================================
+6. SALARY INCREMENTS
+==========================================================================
+
+6.1 Annual Increment
+
+Salary increments are awarded once per year, effective 1 April, based on:
+  - Individual performance rating from the annual appraisal
+  - Position within the salary band (mid-point positioning)
+  - Overall Company affordability
+
+Increment guideline (as % of basic salary):
+
+  Rating 5 — Outstanding:              8% – 12%
+  Rating 4 — Exceeds Expectations:     5% – 8%
+  Rating 3 — Meets Expectations:       2% – 5%
+  Rating 2 — Below Expectations:       0% – 2%
+  Rating 1 — Unsatisfactory:           0%
+
+Employees at or above the maximum of their salary band will not receive a standard increment; instead, a one-time merit payment may be considered.
+
+6.2 Promotion Increment
+
+Employees who are promoted to a higher grade during the year receive a promotion increment of minimum 10% of current basic salary (or the minimum of the new grade band, whichever is higher). Promotion increments are separate from the annual increment.
+
+6.3 Market Adjustment
+
+Where salary surveys indicate significant market movement for specific roles or levels, targeted market adjustments may be made outside the annual increment cycle, subject to CHRO and CFO approval.
+
+==========================================================================
+7. ALLOWANCES SUMMARY
+==========================================================================
+
+Transport Allowance (monthly):
+
+  Grade A1 – A2:     LKR 5,000
+  Grade A3 – A4:     LKR 8,000
+  Grade M1 – M2:     LKR 15,000 (or company-arranged transport)
+  Grade M3+:         Vehicle allowance as per BU benefits guide
+
+Communication Allowance (monthly):
+
+  Grade A1 – A4:     LKR 1,500
+  Grade M1 – M2:     LKR 3,000
+  Grade M3+:         Company phone + plan (as per BU benefits guide)
+
+Meal Allowance:      LKR 3,500 per month (all grades)
+
+Note: Some allowances may be absorbed into the salary package at senior grades and will be specified in the appointment letter.
+
+==========================================================================
+8. OFF-CYCLE PAYMENTS
+==========================================================================
+
+Off-cycle payments (outside the regular monthly payroll) require Group CFO approval and are limited to:
+  - Signing bonuses / joining bonuses as specified in offer letters
+  - Spot bonuses for exceptional contributions (maximum LKR 100,000 per employee per year without CFO approval)
+  - Final settlement for exiting employees
+
+==========================================================================
+9. SALARY CONFIDENTIALITY
+==========================================================================
+
+Employee salaries are confidential. Employees must not disclose their salary details to colleagues. Sharing salary information without the consent of both parties or without a legitimate business need is a breach of this policy and may result in disciplinary action.
+
+==========================================================================
+10. RELATED POLICIES
+==========================================================================
+
+- HR-LK-001: Annual Leave Policy
+- HR-LK-004: Overtime and Shift Work Policy
+- HR-LK-010: Resignation and Exit Policy
+- HR-GLOBAL-007: Performance Management Policy
+
+For queries, contact payroll@meridianholdings.lk or hr@meridianholdings.lk.

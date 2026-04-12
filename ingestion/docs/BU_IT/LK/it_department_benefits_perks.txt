@@ -1,0 +1,184 @@
+MERIDIAN TECH (PVT) LTD
+IT DEPARTMENT EMPLOYEE BENEFITS AND PERKS GUIDE — 2025
+Business Unit: IT / Technology
+Country: Sri Lanka
+Policy Code: IT-LK-BEN-001
+Effective Date: 1 January 2025
+Approved By: Head of HR — Meridian Tech
+
+==========================================================================
+OVERVIEW
+==========================================================================
+
+Meridian Tech (Pvt) Ltd is the technology and digital services arm of Meridian Holdings PLC, employing over 1,200 technology professionals across software engineering, data, infrastructure, cybersecurity, and product management. This guide covers the enhanced benefits and perks specific to Meridian Tech employees, in addition to the Group-wide benefits detailed in the Meridian Holdings HR policies.
+
+==========================================================================
+1. COMPENSATION STRUCTURE
+==========================================================================
+
+1.1 Base Salary
+
+Meridian Tech follows a market-benchmarked compensation structure, reviewed annually against the LKR IT salary market. Salary bands are reviewed in January each year.
+
+1.2 Variable Pay / Annual Bonus
+
+IT employees are eligible for a technology performance bonus:
+
+  Principal Engineer / Tech Lead / Architect:   Up to 20% of annual basic salary
+  Senior Software Engineer (Grade A4):          Up to 15% of annual basic salary
+  Software Engineer (Grade A2–A3):              Up to 10% of annual basic salary
+  Junior Engineer / Trainee (Grade A1):         Up to 5% of annual basic salary
+
+  Management Grades (M1 and above) follow the Finance department bonus structure.
+
+1.3 On-Call and After-Hours Allowance
+
+Employees in IT Operations, Infrastructure, and Production Support roles who are placed on an official on-call roster receive:
+  - On-call allowance: LKR 5,000 per week on roster (regardless of whether called)
+  - After-hours call-out: LKR 1,500 per hour, minimum 2 hours, for actual work done
+
+1.4 Retention Bonus
+
+Key technical talent may be offered discretionary retention bonuses, paid in tranches over 12 or 24 months, as approved by the Chief Technology Officer and CHRO.
+
+==========================================================================
+2. TECHNOLOGY EQUIPMENT
+==========================================================================
+
+2.1 Development Equipment
+
+All engineers are provided with:
+  - High-performance laptop (latest spec, replaced every 3 years) — Engineer's choice of Mac or Windows, subject to team standards
+  - External 4K monitor (27-inch minimum)
+  - Ergonomic keyboard and mouse
+  - USB-C hub
+
+2.2 Peripheral Budget
+
+Each engineer receives an annual equipment budget of LKR 25,000 for additional peripherals (standing desk risers, second monitor, headsets, etc.), claimable through the Finance portal.
+
+2.3 Home Office Setup
+
+On confirmed remote or hybrid arrangements, engineers receive a one-time home office setup allowance of LKR 50,000 (claimable once every 3 years) for furniture (desk, chair) or equipment.
+
+==========================================================================
+3. LEARNING AND CERTIFICATION
+==========================================================================
+
+3.1 Professional Certifications
+
+Meridian Tech fully funds role-relevant technical certifications, including but not limited to:
+  - AWS Certified (Solutions Architect, Developer, DevOps Engineer)
+  - Google Cloud Professional Certifications
+  - Microsoft Azure Certifications
+  - Kubernetes (CKA, CKAD)
+  - Certified Ethical Hacker (CEH), CISSP, CompTIA Security+
+  - PMP, Agile / Scrum certifications
+  - Databricks, Snowflake, dbt certifications
+
+There is no training bond for certifications valued below LKR 100,000. Certifications above LKR 100,000 are subject to the Group Training Bond Policy (HR-GLOBAL-006).
+
+3.2 Learning Subscriptions
+
+All Meridian Tech employees receive a company-paid annual subscription to:
+  - Udemy Business (unlimited access)
+  - LinkedIn Learning
+  - One additional platform of choice from: Coursera, Pluralsight, or O'Reilly Learning
+
+3.3 Conference and Community Participation
+
+Engineers are encouraged to attend local and regional tech conferences. The Company provides:
+  - Fully funded attendance at 1 approved conference per year (including travel and accommodation)
+  - Paid time off to speak at or organize industry events
+  - Funding for LK-specific community events (e.g., AWS Sri Lanka, GDG Colombo, FOSS Lanka)
+
+==========================================================================
+4. FLEXIBLE AND REMOTE WORK
+==========================================================================
+
+4.1 Meridian Tech operates a default hybrid model of 2 days in office per week (Tuesday and Thursday are standard anchor days). Fully remote arrangements are available for certain specialist roles by CTO approval.
+
+4.2 Engineers are provided with:
+  - High-speed VPN access
+  - Company-paid internet reimbursement: LKR 3,500 per month (above the Group standard of LKR 2,500 for IT roles, due to higher bandwidth requirements)
+
+4.3 Flexible Hours: Engineers have a flexible start window of 7:30 AM to 10:00 AM, with core hours of 10:00 AM to 4:00 PM for team collaboration. Daily hours are tracked via the ESS check-in system.
+
+==========================================================================
+5. CAREER DEVELOPMENT
+==========================================================================
+
+5.1 Dual Career Track
+
+Meridian Tech offers a dual career track so engineers can choose between:
+  - Technical Track: Engineer → Senior Engineer → Lead Engineer → Principal Engineer → Distinguished Engineer / Fellow
+  - Management Track: Engineer → Team Lead → Engineering Manager → Director of Engineering → VP of Engineering
+
+Both tracks are equally valued and compensated.
+
+5.2 Internal Mobility
+
+After 18 months in a role, employees may apply for internal transfers to other BUs (e.g., Finance IT, Retail IT, Group Data) through the internal job portal. Priority is given to internal candidates.
+
+5.3 Mentorship Program
+
+All new joiners are paired with a senior mentor for the first 6 months. Voluntary reverse mentoring (junior staff mentoring seniors on emerging technologies) is also available.
+
+==========================================================================
+6. HEALTH AND WELLBEING
+==========================================================================
+
+6.1 Enhanced Health Insurance
+
+IT employees receive an enhanced OPD limit of LKR 100,000 per year (vs. LKR 75,000 Group standard), recognizing the sedentary nature of technology roles.
+
+6.2 Ergonomics and Eye Health
+
+  - Annual eye checkup funded at a partner optometrist
+  - Enhanced vision cover: LKR 30,000 per 2 years (vs. Group standard of LKR 20,000)
+  - Posture assessment with a physiotherapist: 1 session per year, fully funded
+
+6.3 Mental Health
+
+Meridian Tech provides 8 free EAP counseling sessions per year (vs. 6 Group standard), recognizing the mental health demands of high-pressure technology roles.
+
+==========================================================================
+7. OFFICE ENVIRONMENT (MERIDIAN TECH HQ — COLOMBO 3)
+==========================================================================
+
+  - 24/7 office access for engineers needing flexible hours
+  - Fully stocked snack and beverage station (free)
+  - Dedicated quiet zones and focus pods for deep work
+  - Collaboration spaces and open-plan agile floors
+  - Gaming lounge (table tennis, foosball) for breaks
+  - On-site clinic with a nurse, available 9 AM to 5 PM daily
+  - Prayer room available for all employees
+
+==========================================================================
+8. HACKATHONS AND INNOVATION
+==========================================================================
+
+8.1 Meridian Tech holds an annual internal Hackathon. Participation is voluntary and encouraged. Prizes include:
+  - 1st place: LKR 500,000 project funding + team trip to a regional tech event
+  - 2nd place: LKR 200,000 innovation budget
+  - 3rd place: LKR 100,000 learning budget per team member
+
+8.2 Engineers are allocated 10% of their working time (approximately half a day per week) for innovation, experimentation, or open-source contribution projects, subject to manager awareness.
+
+==========================================================================
+9. LEAVE (IT-SPECIFIC ENHANCEMENTS)
+==========================================================================
+
+  - Study leave for certification exams: 3 days per exam sitting (above Group standard)
+  - Hackathon / conference attendance: Up to 3 days per year, paid
+  - Volunteer / open-source contribution day: 1 day per quarter, paid
+
+==========================================================================
+10. CONTACT
+==========================================================================
+
+For benefits queries:
+  HR Business Partner — Meridian Tech: ithr@meridianholdings.lk
+  Benefits Administrator: benefits@meridianholdings.lk
+  HR Helpline: +94 11 234 5700 (ext. 5720)
+  ESS Portal: hr.meridianholdings.lk

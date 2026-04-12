@@ -1,0 +1,148 @@
+MERIDIAN HOLDINGS PLC
+REMOTE WORK AND FLEXIBLE WORKING POLICY
+Policy Code: HR-GLOBAL-002
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Chief Human Resources Officer
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+Meridian Holdings PLC recognizes that flexible working arrangements, including remote work, can enhance employee productivity, wellbeing, and work-life balance, while maintaining service quality and operational effectiveness. This policy provides a framework for remote work and hybrid arrangements across all business units globally.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all permanent employees of Meridian Holdings PLC globally. It does not override local legislative requirements or BU-specific operational requirements. Roles that require physical presence (e.g., Meridian Retail store staff, Manufacturing floor workers, Security personnel) are exempt from remote work eligibility.
+
+==========================================================================
+3. TYPES OF FLEXIBLE WORKING ARRANGEMENTS
+==========================================================================
+
+3.1 Hybrid Work
+
+The standard arrangement for office-based roles. The employee splits their week between the office and a remote location (typically home). The minimum in-office expectation is 3 days per week unless otherwise agreed.
+
+3.2 Full Remote Work
+
+Working entirely remotely, applicable only to specific roles where the nature of work permits and performance can be maintained. Full remote arrangements require written approval from the BU Head and HR Director and are reviewed annually.
+
+3.3 Flexible Hours
+
+Adjusting start and finish times while maintaining the standard 45-hour week, subject to manager approval and business coverage requirements.
+
+3.4 Compressed Work Week
+
+Working full contracted hours over fewer days (e.g., 4 x 10-hour days instead of 5 x 9-hour days). Available subject to BU operational requirements.
+
+==========================================================================
+4. ELIGIBILITY
+==========================================================================
+
+4.1 Employees are eligible for remote work after completing their probationary period and demonstrating satisfactory performance.
+
+4.2 Employees on a Performance Improvement Plan (PIP) or under active disciplinary proceedings are not eligible for new or extended remote work arrangements during the relevant process.
+
+4.3 Eligibility is role-dependent and subject to manager and BU Head approval. Not all roles are suitable for remote work.
+
+==========================================================================
+5. APPLICATION PROCESS
+==========================================================================
+
+5.1 Employees wishing to formally request a flexible working arrangement must complete the Flexible Working Request Form on the ESS portal and discuss it with their line manager.
+
+5.2 Managers will respond to formal requests within 15 working days. Requests may be approved, approved with modifications, or declined with written reasons. The Company will consider all requests seriously and may only decline on genuine business grounds.
+
+5.3 Agreed arrangements will be documented in writing (a Flexible Working Agreement) and kept on the employee's HR file. Informal ad-hoc remote days (e.g., working from home occasionally due to a personal circumstance) may be agreed verbally between the employee and manager and do not require a formal agreement.
+
+==========================================================================
+6. EMPLOYEE RESPONSIBILITIES WHILE WORKING REMOTELY
+==========================================================================
+
+6.1 Availability
+
+Remote employees must be contactable and responsive during their standard working hours. This includes being available for video calls, instant messages, and phone calls as they would be in the office. Deliberate unavailability during core hours without notice may be treated as unauthorized absence.
+
+6.2 Core Collaboration Hours
+
+All employees (remote or in-office) must be available between 9:30 AM and 3:30 PM local time. All team meetings should be scheduled within this window.
+
+6.3 Professional Standards
+
+Employees working remotely must maintain the same standards of professionalism as in the office, including:
+  - Appropriate attire for video calls (smart casual as a minimum)
+  - A suitable workspace free from excessive distractions
+  - Maintaining confidentiality of Company data and documents in the home environment
+
+6.4 Attendance and Timekeeping
+
+Remote employees must log their attendance on the ESS portal daily. Leave must be applied for through the normal process regardless of remote working arrangements.
+
+==========================================================================
+7. EQUIPMENT AND TECHNOLOGY
+==========================================================================
+
+7.1 Company-Provided Equipment
+
+The Company will provide eligible remote workers with the necessary equipment to perform their role, which may include:
+  - Laptop computer
+  - Headset
+  - Access to VPN and required software
+
+Employees are responsible for the safekeeping of Company equipment at home and must report damage or theft immediately.
+
+7.2 Internet and Utilities
+
+Employees are responsible for maintaining a reliable internet connection suitable for their work. The Company will provide a Remote Work Allowance of LKR 2,500 per month for employees on an approved hybrid or full-remote arrangement to contribute toward internet and utility costs. This allowance is not paid for occasional remote days.
+
+7.3 IT Security at Home
+
+Employees must:
+  - Use the Company VPN whenever accessing Company systems remotely
+  - Not use public Wi-Fi networks without VPN protection
+  - Ensure their home router has a strong, unique password
+  - Never share their Company laptop or login credentials with family members
+
+==========================================================================
+8. HEALTH AND SAFETY
+
+==========================================================================
+
+8.1 Employees are responsible for ensuring their home workspace is safe and ergonomically suitable. The Company will provide access to an online ergonomic self-assessment tool.
+
+8.2 Employees who experience a work-related injury while working remotely must report it to HR within 24 hours, as they would for an office-based injury.
+
+==========================================================================
+9. PERFORMANCE MANAGEMENT
+==========================================================================
+
+9.1 Remote work is a privilege, not a right, and will be withdrawn if performance is adversely affected.
+
+9.2 Line managers will manage remote employees based on outcomes and deliverables rather than physical presence. Regular one-on-one check-ins (at least weekly) are strongly encouraged.
+
+9.3 If an employee's performance declines and remote working is a contributing factor, the manager may require an increase in in-office presence as a remedial measure, in consultation with HR.
+
+==========================================================================
+10. REVIEW AND CHANGES
+
+==========================================================================
+
+All flexible working arrangements will be reviewed at the employee's annual appraisal. Either party may request a review at any time if circumstances change. The Company reserves the right to amend or withdraw flexible working arrangements with reasonable notice (typically 4 weeks) if business needs change.
+
+==========================================================================
+11. INTERNATIONAL AND CROSS-BORDER WORKING
+==========================================================================
+
+Employees wishing to work remotely from outside the country in which they are employed must obtain written approval from HR and Legal in advance. Working from abroad can have tax, employment law, and immigration implications that must be assessed case by case.
+
+==========================================================================
+12. RELATED POLICIES
+==========================================================================
+
+- HR-GLOBAL-001: Code of Conduct
+- HR-LK-001: Annual Leave Policy
+- IT Security Policy (IT-001)
+
+For queries, contact hr@meridianholdings.lk.

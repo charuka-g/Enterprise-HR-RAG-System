@@ -1,0 +1,162 @@
+MERIDIAN HOLDINGS PLC
+PROBATION AND CONFIRMATION POLICY
+Policy Code: HR-LK-005
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Head of Human Resources
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+This policy sets out the probationary framework for new employees of Meridian Holdings PLC in Sri Lanka, including the duration, performance expectations, review process, confirmation, and extension or termination during probation. The probationary period provides the Company with the opportunity to assess the suitability of a new employee, and equally gives the employee the opportunity to determine whether the role meets their expectations.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all new permanent employees joining Meridian Holdings PLC. It does not apply to employees who are transferred internally (intra-company transfers) or re-hired, unless specified in the re-hire offer letter.
+
+==========================================================================
+3. PROBATIONARY PERIOD DURATION
+==========================================================================
+
+3.1 Standard Probation
+
+  - Grades A1 to A4 (Executive / Analyst level):     3 months
+  - Grades M1 to M2 (Assistant Manager / Manager):   6 months
+  - Grades M3 and above (Senior Manager and above):  6 months
+
+3.2 Extended Roles
+
+For certain specialist, technical, or client-facing roles, the probationary period may be set at 6 months for all grades. This will be specified in the appointment letter.
+
+3.3 Part-Time Employees
+
+The probationary period is the same calendar duration as for full-time employees, regardless of the number of hours worked per week.
+
+==========================================================================
+4. DURING PROBATION
+==========================================================================
+
+4.1 Objectives and Expectations
+
+At the start of employment, the line manager must schedule an onboarding meeting within the first 5 working days to:
+  - Review the job description and performance expectations
+  - Set 3–5 clear, measurable probation objectives
+  - Explain team norms, processes, and key stakeholders
+  - Introduce the employee to relevant systems and tools
+
+These objectives must be documented on the ESS portal and agreed upon in writing by both the employee and the manager.
+
+4.2 Leave During Probation
+
+  - Annual Leave: Not applicable during probation. Employees on probation are not entitled to annual leave. Unpaid leave may be granted at management discretion.
+  - Medical Leave: Up to 3 days of certified medical leave per month is allowed. However, extended medical absence during probation may result in an equivalent extension of the probationary period.
+  - Maternity Leave: Female employees on probation are still entitled to statutory maternity benefits under the Maternity Benefits Ordinance. The probationary period will be paused during maternity leave and resume upon return.
+
+4.3 Salary During Probation
+
+Employees on probation receive the full agreed salary as stated in their appointment letter. There is no salary withholding during probation.
+
+4.4 Benefits During Probation
+
+  - EPF/ETF contributions commence from day one
+  - Health insurance: coverage commences after 1 month of service
+  - Annual bonus: employees who confirm within the bonus cycle are eligible for a pro-rated bonus
+
+==========================================================================
+5. PROBATION REVIEW PROCESS
+==========================================================================
+
+5.1 Informal Mid-Point Check-In
+
+For 6-month probations, the line manager must conduct an informal check-in meeting at the 3-month mark. For 3-month probations, a check-in is recommended at the 6-week mark. The purpose is to give the employee feedback and address any concerns early.
+
+5.2 Formal Probation Review
+
+A formal probation review meeting must take place no later than 2 weeks before the probation end date. The manager must:
+  - Evaluate performance against the agreed probation objectives
+  - Assess conduct, attendance, and cultural fit
+  - Complete the Probation Review Form on the ESS portal
+  - Obtain a countersignature from the BU Head
+
+The HR Business Partner must be informed of the outcome no later than 5 working days before the probation end date.
+
+5.3 Outcome of Review
+
+Following the formal review, one of three outcomes will apply:
+
+  a) Confirmation: The employee is confirmed as a permanent employee effective from the day after the probation end date. A confirmation letter will be issued within 5 working days.
+
+  b) Extension: The probationary period is extended (see Section 6).
+
+  c) Termination: The employment is terminated during or at the end of probation (see Section 7).
+
+==========================================================================
+6. EXTENSION OF PROBATION
+==========================================================================
+
+6.1 Probation may be extended where:
+  - Performance against objectives is below expectations but shows potential for improvement
+  - There was a significant period of absence during probation (medical, personal) that prevented a fair assessment
+  - The employee is performing well but has not had enough time to demonstrate certain competencies
+
+6.2 Extension Duration
+
+  - Standard extension: 1 to 3 months
+  - Maximum total probation (including extension): 12 months
+
+6.3 Process
+
+The line manager must notify the employee in writing at least 2 weeks before the original probation end date, specifying:
+  - The reason for extension
+  - The extended period and new end date
+  - Specific, measurable targets the employee must achieve during the extension
+
+The employee must be given the opportunity to respond in writing within 3 working days of receiving the extension notice.
+
+==========================================================================
+7. TERMINATION DURING PROBATION
+==========================================================================
+
+7.1 Notice Period
+
+Either party may terminate employment during the probationary period with the following notice:
+  - Employee: 2 weeks' written notice
+  - Company: 2 weeks' written notice or payment in lieu of notice
+
+7.2 Grounds for Termination
+
+Termination during probation may occur where:
+  - Performance is significantly below expectations and there is no reasonable prospect of improvement
+  - The employee fails to meet extension targets
+  - A fundamental breach of conduct, integrity, or trust
+
+7.3 Process
+
+All terminations during probation must be:
+  - Approved by the BU Head and HR Director
+  - Communicated to the employee in a formal meeting
+  - Followed by a written termination letter citing the reasons
+
+Termination during probation is not subject to the full disciplinary process, but basic principles of fairness apply. The employee must be informed of the concerns, given a chance to respond, and treated with dignity.
+
+==========================================================================
+8. RESPONSIBILITIES
+==========================================================================
+
+Line Manager:  Set objectives, provide regular feedback, conduct timely reviews, submit review forms on ESS.
+HR Business Partner:  Advise managers on probation process, ensure timely outcomes, issue confirmation/extension/termination letters.
+Employee:  Engage actively in the onboarding process, seek feedback proactively, raise concerns early.
+
+==========================================================================
+9. RELATED POLICIES
+==========================================================================
+
+- HR-LK-001: Annual Leave Policy
+- HR-LK-002: Medical and Sick Leave Policy
+- HR-LK-010: Resignation and Exit Policy
+- HR-GLOBAL-001: Code of Conduct
+
+For queries, contact hr@meridianholdings.lk.

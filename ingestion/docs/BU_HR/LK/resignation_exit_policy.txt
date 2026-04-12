@@ -1,0 +1,176 @@
+MERIDIAN HOLDINGS PLC
+RESIGNATION AND EXIT POLICY
+Policy Code: HR-LK-010
+Effective Date: 1 January 2025
+Last Reviewed: October 2024
+Approved By: Group Head of Human Resources
+
+==========================================================================
+1. PURPOSE
+==========================================================================
+
+This policy sets out the procedures for voluntary resignation, retirement, and the exit process at Meridian Holdings PLC in Sri Lanka. It ensures a structured and respectful exit for departing employees while protecting the operational and confidential interests of the Company.
+
+==========================================================================
+2. SCOPE
+==========================================================================
+
+This policy applies to all permanent employees of Meridian Holdings PLC who voluntarily resign, retire, or are exiting the Company for any reason other than disciplinary termination (which is governed by the Disciplinary Policy).
+
+==========================================================================
+3. NOTICE PERIODS
+==========================================================================
+
+3.1 Employee-Initiated Resignation
+
+Employees are required to provide written notice of resignation as follows:
+
+  Grade A1 to A4 (Executive / Analyst):              1 month
+  Grade M1 to M2 (Assistant Manager / Manager):      2 months
+  Grade M3 to M4 (Senior Manager / Head of Dept):    3 months
+  Grade M5 and above (Director and above):            3 months or as specified in contract
+
+The notice period commences on the date the written resignation is formally received and acknowledged by HR, not the date of verbal notification.
+
+3.2 Company-Initiated Notice (Redundancy)
+
+For redundancy or retrenchment, the Company will provide:
+  - A minimum of 1 month's notice for employees with less than 3 years' service
+  - A minimum of 2 months' notice for employees with 3–5 years' service
+  - A minimum of 3 months' notice for employees with over 5 years' service
+  - Or payment in lieu of notice
+
+3.3 Mutual Agreement
+
+With written agreement from both the employee and the Company, the notice period may be reduced. This must be countersigned by the BU Head and HR Director.
+
+==========================================================================
+4. RESIGNATION PROCEDURE
+==========================================================================
+
+4.1 Submission of Resignation
+
+The employee must submit a formal written resignation letter (physical or email) addressed to their direct line manager, with a copy to the HR Business Partner. The letter should state:
+  - The last working date (based on the applicable notice period)
+  - A brief reason for resignation (optional but encouraged for exit insights)
+
+A resignation submitted verbally is not valid until confirmed in writing.
+
+4.2 Acknowledgement
+
+The HR Business Partner will acknowledge the resignation in writing within 2 working days and confirm the last working date.
+
+4.3 Counter-Offers
+
+The Company may, at its discretion, extend a counter-offer to retain a valuable employee. The employee is under no obligation to accept any counter-offer. If a counter-offer is accepted, the resignation will be formally withdrawn in writing, and all exit processes will be cancelled.
+
+==========================================================================
+5. PAYMENT IN LIEU OF NOTICE (PILON)
+==========================================================================
+
+5.1 Company-Initiated PILON
+
+The Company reserves the right to place an employee on garden leave or make payment in lieu of notice, releasing the employee immediately or before the notice period expires. In this case, the employee will receive their salary and benefits (excluding variable bonuses) for the remaining notice period.
+
+5.2 Employee-Initiated Early Exit
+
+If an employee wishes to leave before completing their notice period, they may apply to the BU Head for early release. If approved, the employee may be required to compensate the Company for the shortfall in notice, calculated at their basic daily rate.
+
+==========================================================================
+6. HANDOVER AND KNOWLEDGE TRANSFER
+==========================================================================
+
+6.1 The departing employee is responsible for completing a structured handover before their last working day. The line manager will define the scope of the handover within 3 working days of receiving the resignation. A handover plan template is available on the ESS portal.
+
+6.2 Handover must include:
+  - Status of all ongoing tasks and projects
+  - Key contacts (clients, vendors, stakeholders)
+  - Location of all relevant documents and data (physical and digital)
+  - System access and login information (to be securely transferred to IT)
+  - Any open issues or upcoming deadlines
+
+6.3 Failure to complete an adequate handover may result in a deduction from the final settlement.
+
+==========================================================================
+7. EXIT CLEARANCE PROCESS
+==========================================================================
+
+7.1 The employee must complete the Exit Clearance Checklist, available on the ESS portal, before their last working day. This covers sign-off from:
+  - Line Manager (handover complete, no pending deliverables)
+  - IT Department (laptop, access cards, software licences returned/deactivated)
+  - Finance (no outstanding expense claims, loans, or advances)
+  - Administration (ID card, parking pass, uniforms, keys returned)
+  - HR (leave balance settlement, EPF/ETF details confirmed)
+
+7.2 Full and final settlement will only be processed upon completion of the Exit Clearance Checklist.
+
+==========================================================================
+8. FINAL SETTLEMENT
+==========================================================================
+
+8.1 Salary and Benefits
+
+The employee's final salary and benefits (including pro-rated 13th month salary if applicable) will be processed in the regular payroll cycle following the last working day.
+
+8.2 Leave Encashment
+
+Outstanding annual leave balance (up to the permitted carry-forward maximum) will be paid at the basic daily rate:
+  Daily Rate = Monthly Basic Salary ÷ 26
+
+8.3 EPF / ETF
+
+The HR department will furnish the employee with their EPF member number and confirm contributions are up to date with the Employees' Provident Fund. ETF benefits will be processed in accordance with the Employees' Trust Fund Act.
+
+8.4 Gratuity
+
+Employees who have completed 5 or more years of continuous service are entitled to gratuity under the Payment of Gratuity Act No. 12 of 1983:
+  Gratuity = (Last drawn monthly salary ÷ 2) × Number of completed years of service
+
+Gratuity will be paid within 30 days of the last working day.
+
+8.5 Deductions
+
+The Company reserves the right to deduct from the final settlement any amounts legitimately owed by the employee, including:
+  - Training bond obligations (refer to individual training agreements)
+  - Outstanding loans or salary advances
+  - Compensation for early exit notice shortfall (where applicable)
+  - Cost of unreturned Company assets
+
+==========================================================================
+9. EXIT INTERVIEW
+==========================================================================
+
+HR will invite all departing employees to participate in a confidential exit interview. The exit interview is voluntary and aims to gain genuine feedback to improve the employee experience. Exit interview data is aggregated and anonymized before being shared with senior management.
+
+==========================================================================
+10. POST-EMPLOYMENT OBLIGATIONS
+==========================================================================
+
+10.1 Confidentiality
+
+Former employees are bound by the confidentiality obligations in their employment contract, which remain in force after termination. This includes not disclosing trade secrets, client information, pricing strategies, or any proprietary Company information.
+
+10.2 Non-Solicitation
+
+Employees in client-facing or senior management roles may be subject to non-solicitation clauses (as specified in their employment contract), restricting them from directly soliciting Meridian Holdings clients or employees for a defined period after exit.
+
+10.3 References
+
+The Company will provide factual employment references confirming dates of service, designation, and last drawn salary. Character references will only be provided by mutual agreement between the employee and their line manager.
+
+==========================================================================
+11. RETIREMENT
+==========================================================================
+
+The standard retirement age at Meridian Holdings PLC is 60 years. Employees wishing to take early retirement must apply in writing at least 3 months before their intended retirement date. Retirement benefits will be calculated as per the gratuity formula in Section 8.4 and any applicable pension scheme rules.
+
+==========================================================================
+12. RELATED POLICIES
+==========================================================================
+
+- HR-LK-001: Annual Leave Policy
+- HR-LK-005: Probation and Confirmation Policy
+- HR-LK-006: Grievance Handling Policy
+- HR-GLOBAL-001: Code of Conduct
+
+For queries, contact hr@meridianholdings.lk.
