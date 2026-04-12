@@ -9,9 +9,13 @@ class Settings(BaseSettings):
     openai_model: str = "gpt-4o"
     top_k_retrieve: int = 20         # candidates from vector search
     top_k_prompt: int = 5            # chunks sent in the prompt
-    max_tokens: int = 1024
+    max_tokens: int = 2048
     log_file: str = "logs/queries.jsonl"
-    cors_origins: list[str] = ["http://localhost:5173", "http://localhost:3000"]
+    cors_origins_str: str = "http://localhost:5173,http://localhost:3000"
+
+    @property
+    def cors_origins(self) -> list[str]:
+        return [o.strip() for o in self.cors_origins_str.split(",") if o.strip()]
 
     class Config:
         env_file = ".env"

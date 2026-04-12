@@ -1,6 +1,8 @@
 import type { UserProfile, QueryResponse } from "./types";
 
-const BASE_URL = "/api";
+// In dev, VITE_API_BASE_URL is empty and Vite proxies /api/* to localhost:8000.
+// In prod, set VITE_API_BASE_URL to the deployed backend origin (e.g. https://api.myhr.com).
+const BASE_URL = `${import.meta.env.VITE_API_BASE_URL}/api`;
 
 export async function sendQuery(
   question: string,

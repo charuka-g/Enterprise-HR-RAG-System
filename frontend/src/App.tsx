@@ -1,7 +1,7 @@
 import { useState } from "react";
 import type { UserProfile } from "./types";
 import LoginScreen from "./components/LoginScreen";
-import ChatWindow from "./components/ChatWindow";
+import PortalLayout from "./components/PortalLayout";
 
 export default function App() {
   const [user, setUser] = useState<UserProfile | null>(null);
@@ -10,5 +10,5 @@ export default function App() {
     return <LoginScreen onLogin={setUser} />;
   }
 
-  return <ChatWindow user={user} onSignOut={() => setUser(null)} />;
+  return <PortalLayout user={user} onSignOut={() => setUser(null)} />;
 }
