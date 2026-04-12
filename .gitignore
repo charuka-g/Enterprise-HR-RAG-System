@@ -6,3 +6,5 @@ qdrant_storage/
 node_modules/
 dist/
 .DS_Store
+
+

@@ -4,3 +4,4 @@ __pycache__/
 logs/
 qdrant_storage/
 .DS_Store
+docs/
