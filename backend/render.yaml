@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: myhr-backend
+    env: python
+    region: singapore   # closest to LK — change to your preferred region
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      # Set these in the Render dashboard (mark as secret):
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: SUPABASE_DB_URL
+        sync: false
+      # Comma-separated list of allowed frontend origins
+      # e.g. https://myhr.vercel.app,http://localhost:5173
+      - key: CORS_ORIGINS_STR
+        sync: false
+      # Non-secret defaults (override in dashboard if needed):
+      - key: OPENAI_MODEL
+        value: gpt-4o
+      - key: EMBEDDING_MODEL
+        value: text-embedding-3-small
